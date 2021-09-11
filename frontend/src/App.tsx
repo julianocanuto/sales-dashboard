@@ -21,6 +21,9 @@ function App() {
           </div>
         </div>
 
+        <div className="py-3">
+          <h2 className="text-primary">Total of sales</h2>
+        </div>
         <DataTable />
       </div>
       <Footer />
