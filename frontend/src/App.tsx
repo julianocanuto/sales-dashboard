@@ -15,10 +15,6 @@ function App() {
             <h5 className="text-center text-secondary">Conversion rate by consultant</h5>
             <BarChart />
           </div>
-          <div className="col-sm-6">
-            <h5 className="text-center text-secondary">Conversion rate by consultant</h5>
-            <BarChart />
-          </div>
         </div>
 
         <div className="py-3">
