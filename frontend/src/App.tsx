@@ -1,5 +1,6 @@
 import BarChart from "components/BarChart";
 import DataTable from "components/DataTable";
+import DonutChart from "components/DonutChart";
 import Footer from "components/Footer";
 import NavBar from "components/NavBar";
 
@@ -14,6 +15,10 @@ function App() {
           <div className="col-sm-6">
             <h5 className="text-center text-secondary">Conversion rate by consultant</h5>
             <BarChart />
+          </div>
+          <div className="col-sm-6">
+            <h5 className="text-center text-secondary">Conversion rate by consultant</h5>
+            <DonutChart />
           </div>
         </div>
 
