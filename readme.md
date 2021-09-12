@@ -1,1 +1,1 @@
-Live app running in [Netlify](https://julianocanuto-sales-management-system.netlify.app/).
+Live app running in <a href="https://julianocanuto-sales-management-system.netlify.app/" target="_blank">Netlify</a>.
