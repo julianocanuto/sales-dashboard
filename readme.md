@@ -1,0 +1,1 @@
+Live app running in [Netlify](https://julianocanuto-sales-management-system.netlify.app/).
