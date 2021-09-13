@@ -1,5 +1,5 @@
 # Sales Management Dashboard
-:construction: Work in progress :construction:
+
 ## :tv: Frontend
 - App deployed to [Netlify](https://julianocanuto-sales-management-system.netlify.app/).
 
