@@ -1,13 +1,13 @@
 import { Sale } from "./Sale";
 
 export type SalePage = {
-    content: Sale[],
+    content?: Sale[],
     last: boolean,
     totalElements: number,
     totalPages: number,
     number: number,
-    size: number,
+    size?: number,
     first: boolean,
-    numberOfElements: number,
-    empty: boolean
+    numberOfElements?: number,
+    empty?: boolean
 }
