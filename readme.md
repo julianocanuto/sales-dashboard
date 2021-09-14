@@ -1,4 +1,4 @@
-# Sales Management Dashboard
+# Sales Dashboard
 
 ## :tv: Frontend
 - App deployed to [Netlify](https://julianocanuto-sales-management-system.netlify.app/).
