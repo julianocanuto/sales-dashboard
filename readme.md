@@ -2,7 +2,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ba365ac4-d66f-41a2-a44d-ddf9d3621a65/deploy-status)](https://app.netlify.com/sites/julianocanuto-sales-dashboard/deploys)
 
 ## :tv: Frontend
-- App deployed to [Netlify](https://julianocanuto-sales-management-system.netlify.app/).
+- App deployed to [Netlify](https://julianocanuto-sales-dashboard.netlify.app/).
 
 ## :computer: Backend
 - App deployed to Heroku.
